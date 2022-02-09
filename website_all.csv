@@ -1,0 +1,7 @@
+1,NETWORK NODE MANAGER i,,http://nmsqadbp1.mahait.com/nnm/,NNMi
+2,SERVIVE MANAGER,,http://10.9.54.11/SM/index.do,SM
+3,OPERATIONS BRIDGE MANAGER ,,http://nmdopmngrappp1.mahait.com/topaz/login.jsp?openInNewWindow=false&if_redirect=true&portlet_url=%2Fopr-web%2Fframework%2Fapp%3F%23/myWorkspace/,OBM
+4,ASSET MANAGER,,http://10.9.55.13:8080/AssetManager/cwc/aclogin.jsp?conversationContext=1,AM
+5,NMS NODES,,http://10.9.55.24:8081/nnmnew/NMS_Nodes.php,NMS Node
+6,NETWORK AUTOMATION,,https://nmsnetautdb1.mahait.com/statistics.dashboard.htm,NA
+7,MICROFOCUS,,https://my.microfocus.com/signin,Microfocus

@@ -1,0 +1,74 @@
+Level,Escalation,Intimation by SMS/Email,Intimation by Voice Call,,,,,,,
+L1,Field engineer,00 hours,00 Hours ,,,,,,,
+L2,District Lead,00 hours,2 Hours,,,,,,,
+L3,Zonal Head,00 hours,4 Hours ,,,,,,,
+L4,Central Team ,00 hours,12 Hours ,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+District ,Taluka,Field engineer,Contact No.,Email id,District lead,Contact No.,Email id,Zonal Lead,Contact No.,Email id
+Akola,Murtizapur,Amit Verma, 9691363706 ,bittuverma274@gmail.com,Imran Mev,7000106667,imran.mev@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Akola,Telhara,Imrankhan Pathan,"7020120388, 7709006944",imrankhan.pathan@stltech.in,Imran Mev,7000106667,imran.mev@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Akola,Akola,Imrankhan Pathan,"7020120388, 7709006944",imrankhan.pathan@stltech.in,Imran Mev,7000106667,imran.mev@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Akola,Patur,Rakesh Kumar Sharma,"8271733991, 7281837260",rajrocked123@gmail.com,Imran Mev,7000106667,imran.mev@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Akola,Barshitakli,Rakesh Kumar Sharma,"8271733991, 7281837260",rajrocked123@gmail.com,Imran Mev,7000106667,imran.mev@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Amravati,Jitesh Rajendra Deshmukh,8007062603,jiteshrd9@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Anjangaon surji,Komal Vishnu Kedar,"9130893935, 8421434981",komal10jun@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Bhatkuli,Jitesh Rajendra Deshmukh,8007062603,jiteshrd9@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Chandur Bazar,Komal Vishnu Kedar,"9130893935, 8421434981",komal10jun@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Dhamangaon,Gaurav Wagh,7020339209,Gwagh152@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Nandgaon,Gaurav Wagh,7020339209,Gwagh152@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Amravati,Tiosa,Jitesh Rajendra Deshmukh,8007062603,jiteshrd9@gmail.com,Sachin Poharkar,8208732544,sachin.poharkar1@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Warora,Mandhata Kumar Dubey,9671972928,mandhatajio9621@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Bhadrawati,Mandhata Kumar Dubey,9671972928,mandhatajio9621@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Bramhapuri,Ritviz Mahendra Gajbhiye,"+917517335421,+918265096532",ritvizgajbhiye1@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Chandrapur,Shri Kumar Pandey,7004134368,shrikumar.tcts@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Gondpipri,Shri Kumar Pandey,7004134368,shrikumar.tcts@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Pombhurna,Shri Kumar Pandey,7004134368,shrikumar.tcts@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Rajura,Vivek Bhauskar,8349345317/7000644305,v.bhauskar@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Korpana,Vivek Bhauskar,8349345317/7000644305,v.bhauskar@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Chandrapur,Jiwati,Vivek Bhauskar,8349345317/7000644305,v.bhauskar@gmail.com,Ghanshyam Yadav,7498203657,ghanshyam.yadav@stl.tech,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Gadchiroli,Dhanora,Akash Diwakar Pipare,9545255565,akashpipare125@gmail.com,Devraj Pokhariya,9759892071,devraj.pokhariya@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Gadchiroli,Korchi,Akash Diwakar Pipare,9545255565,akashpipare125@gmail.com,Devraj Pokhariya,9759892071,devraj.pokhariya@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Gadchiroli,Sironcha,Vishwas Vijay Malyalwar,"+91-9403430106, +91-7020704393",vishwasm98@gmail.com,Devraj Pokhariya,9759892071,devraj.pokhariya@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Gadchiroli,Aheri,Vishwas/Yogesh,9403430106 /8669086617,vishwasm98@gmail.com/yogeshkottwar6gmail.com,Devraj Pokhariya,9759892071,devraj.pokhariya@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Gadchiroli,Etapalli,Yogesh Dilip Kottawar,8669086617,yogeshkottawar6@gmail.com ,Devraj Pokhariya,9759892071,devraj.pokhariya@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Gadchiroli,Bhamragad,Yogesh Dilip Kottawar,8669086617,yogeshkottawar6@gmail.com ,Devraj Pokhariya,9759892071,devraj.pokhariya@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Nanded,Kinwat,Ajay Kumar Pal,9807330570,vnsajay16@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Mahur,Ajay Kumar Pal,9807330570,vnsajay16@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Deglur,Balaji Mergewar,7756843924,mergewarb@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Biloli,Balaji Mergewar,7756843924,mergewarb@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Bhokar,Neelesh Kushwaha,918871718015/7000218410,neeleshk73@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Modkhed,Neelesh Kushwaha,918871718015/7000218410,neeleshk73@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Himayat Nagar,Neelesh Kushwaha,918871718015/7000218410,neeleshk73@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Mokhed,Parag Naresh Patil,9665013821,parag545@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Hadgaon,Suranjan Durge,"9689922688, 8669001300",suranjandurge@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Loha,Yogesh Jadhav,8459855667,er.jadhavyogesh@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Nanded,Umri,Yogesh Jadhav,8459855667,er.jadhavyogesh@gmail.com,Mujahid Khan,8459613130,mujahid.khan@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Wardha,Wardha,Mukesh Suresh Thamke,"8485849453, 9890207705",mukeshthamke8@gmail.com,Ravindra Singh,9031007400,ravindra.singh1@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Wardha,Hinganghat,Mukesh Suresh Thamke,"8485849453, 9890207705",mukeshthamke8@gmail.com,Ravindra Singh,9031007400,ravindra.singh1@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Wardha,Samudrapur,Mukesh Suresh Thamke,"8485849453, 9890207705",mukeshthamke8@gmail.com,Ravindra Singh,9031007400,ravindra.singh1@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Wardha,Karanja Ghadge,Niklesh Ramlal Kahalkar,7304485892 /8087369596,nik.kahalkar@gmail.com,Ravindra Singh,9031007400,ravindra.singh1@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Wardha,Seloo,Niklesh Ramlal Kahalkar,7304485892 /8087369596,nik.kahalkar@gmail.com,Ravindra Singh,9031007400,ravindra.singh1@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Washim,Washim,Vaibhav Kumar Singh,8318853445/9598656000,singhshiva656000@gmail.com,Pankaj Bante,"8149983136, 7387535839",pankaj.bante@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Washim,Karanja Lad,Vaibhav Kumar Singh,8318853445/9598656000,singhshiva656000@gmail.com,Pankaj Bante,"8149983136, 7387535839",pankaj.bante@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Washim,Malegaon,Surendra Shankarao Bhoyar,8888508191,surendrabhoyar11@rediffmail.com,Pankaj Bante,"8149983136, 7387535839",pankaj.bante@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Washim,Risod,Surendra Shankarao Bhoyar,8888508191,surendrabhoyar11@rediffmail.com,Pankaj Bante,"8149983136, 7387535839",pankaj.bante@stltech.in,Praveen Nigam,9307574795,praveen.nigam@stl.tech
+Yavatmal,Pusad,Akshay Ravindra Pakade,9172815355,Pakadeakshay@gmail.com,Deepak Thool,8668718897,dipak.thool@stltech.in,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Digras,Akshay Ravindra Pakade,9172815355,Pakadeakshay@gmail.com,Dushyant Solanki,9758592000,dushyant.solanki@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Arni,Arpit Dhirendra Dhande,7030290432,Arpitdhande333@gmail.com,Dushyant Solanki,9758592000,dushyant.solanki@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Darwha,Arpit Dhirendra Dhande,7030290432,Arpitdhande333@gmail.com,Dushyant Solanki,9758592000,dushyant.solanki@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,yavatmal,Mohit Sawale,7875950660,mohitsawale123@gmail.com,Dushyant Solanki,9758592000,dushyant.solanki@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Ralegaon,Mohit Sawale,7875950660,mohitsawale123@gmail.com,Dushyant Solanki,9758592000,dushyant.solanki@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Umarkhed,Sohail Khan,8329751803,khansohail4412@gmail.com ,Dushyant Solanki,9758592000,dushyant.solanki@stl.tech,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Mahagaon,Sohail Khan,8329751803,khansohail4412@gmail.com ,Deepak Thool,8668718897,dipak.thool@stltech.in,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Pandarkawada,Rushikesh Gore,7385254148,rushigore77@gmail.com,Deepak Thool,8668718897,dipak.thool@stltech.in,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Ghatanji,Rushikesh Gore,7385254148,rushigore77@gmail.com,Deepak Thool,8668718897,dipak.thool@stltech.in,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,Wani,Vishal Satpudke,8856923618,vishal.satpudke@stltech.in,Deepak Thool,8668718897,dipak.thool@stltech.in,Atul Pandey,9762008180,atul.pandey@stl.tech
+Yavatmal,maregaon,Vishal Satpudke,8856923618,vishal.satpudke@stltech.in,Deepak Thool,8668718897,dipak.thool@stltech.in,Atul Pandey,9762008180,atul.pandey@stl.tech
+,,,,,,,,,,
+Central Team,,,,,,,,,,
+Name,Contact No.,Email id,,,,,,,,
+Rahul Lilhare,9082619445,rahul.lilhare@stl.tech,,,,,,,,
+Sushilkumar Mendhekar,9511799341,sushilkumar.mendhekar@stl.tech,,,,,,,,
+Sandeep Sharma,7499865079,sandeep.sharma1@stl.tech,,,,,,,,
+,,,,,,,,,,

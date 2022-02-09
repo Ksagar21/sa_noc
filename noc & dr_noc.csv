@@ -1,0 +1,4 @@
+S.NO,Customer Name,RA number ,CRM Order ID,Service No,Logical Circuit ID,Circuit Description,Location,Bandwidth,Gateway IP,Customer end IP,WAN IP Subnet Mask,LAN IP,Acceptance date
+1,SMARTWARE TECHNOLOGIES Pvt Ltd,3317926,4650791,15384946,13403976,"Sanpada railway station building, Office no  E-302, 3RD Floor, Sector 3, Sanpada ( E ), Navi Mumbai – 400705",Sanpada,10 Mb,182.74.246.217/30,182.74.246.218/30,255.255.255.252,182.71.154.16/29,1-Jan-20
+2,SMARTWARE TECHNOLOGIES Pvt Ltd,3278476,4650791,15384952,13331403, GROUND FLOOR NEW ADMINISTRATIVE BUILDING 2 NEAR COMMISSIONER OFFICE NAGPUR 440001,DR NOC Nagpur,10 Mb,182.75.119.17,182.75.119.18,255.255.255.252,182.75.38.136/29,17-Feb-21
+3,SMARTWARE TECHNOLOGIES Pvt Ltd,,,,L277740,"Sanpada railway station building, Office no  E-302, 3RD Floor, Sector 3, Sanpada ( E ), Navi Mumbai – 400705",Sanpada,10 Mb,182.48.238.49,182.48.238.50,255.255.255.252,182.48.238.48/29,1-Jan-21
